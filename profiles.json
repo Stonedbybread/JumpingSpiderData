@@ -28,10 +28,10 @@
         "fact": "funfact: click to see my site"
     },
     {
-        "link": "",
+        "link": "https://2i.netlify.app/",
         "image": "https://i.postimg.cc/FRbnCNf9/2icropped.gif",
         "title": "-2i",
-        "description": "He/him, member of TOD and JumpingSpider",
+        "description": "He/him, member of TOD and JumpingSpider; click for more info",
         "fact": "funfact: AMAZING at coding"
     }
   ]
